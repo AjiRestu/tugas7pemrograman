@@ -68,7 +68,7 @@ contoh:
 - ![](https://github.com/wawanandriyan/tugas7pemrograman/blob/master/gambar/view%20nilai.png)
 
 # main
-- ![](https://github.com/wawanandriyan/tugas7pemrograman/blob/master/gambar/view%20nilai.png)
+- ![](https://github.com/wawanandriyan/tugas7pemrograman/blob/master/gambar/main%20py.png)
 
 # Output
 - ![](https://github.com/wawanandriyan/tugas7pemrograman/blob/master/gambar/output1.png)
